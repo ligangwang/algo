@@ -1,0 +1,28 @@
+{
+  "name": "algojs",
+  "version": "1.0.0",
+  "description": "algorithms with javascript",
+  "main": "connectivity.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ligangwang/algojs.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "Javascript"
+  ],
+  "author": "Ligang Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ligangwang/algojs/issues"
+  },
+  "homepage": "https://github.com/ligangwang/algojs#readme"
+}
